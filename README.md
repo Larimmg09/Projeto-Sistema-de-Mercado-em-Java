@@ -8,7 +8,7 @@ O projeto consiste na implementação de um sistema de supermercado com o intuit
 - Java Collections
 - Polimorfismo Dinâmico
 
-# CLASSES
+## CLASSES
 *Main:* possui os testes padrão para o funcionamento e teste das classes;
 
 *Pessoa:* possui os atributos principais de uma pessoa (nome e cpf) e um método para exibir esses atributos (exibirDados);
